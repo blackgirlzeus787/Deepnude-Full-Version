@@ -237,4 +237,4 @@ This repository serves as the official landing page for DeepNude. The software i
 **Get the most recent version of DeepNude today!**
 
 ---
-**Last updated:** 2026-09-18 06:43:47 UTC
+**Last updated:** 2026-09-18 11:54:14 UTC
